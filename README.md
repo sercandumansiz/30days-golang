@@ -10,4 +10,4 @@
 **Day 2**
 
  [Go101](https://go101.org/article/101.html)
- 
+ [Awesome Go][https://github.com/avelino/awesome-go]
