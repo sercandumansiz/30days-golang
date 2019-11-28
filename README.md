@@ -12,3 +12,5 @@
  [Go101](https://go101.org/article/101.html)
  
  [Awesome Go](https://github.com/avelino/awesome-go)
+ 
+ [Bonus : Programming Languages] (https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7)
